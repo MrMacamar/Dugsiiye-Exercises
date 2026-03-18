@@ -1,0 +1,1 @@
+# Halkan waxan ugu talagalay dhamaan exerciseyada Software enginering + AI mentorshipka
