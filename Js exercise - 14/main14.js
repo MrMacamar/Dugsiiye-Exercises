@@ -5,6 +5,6 @@ let number;
 
 do{
     number = prompt("Xariifow number 10 ka yar ha galin halkaan: ");
-}while(number < 10); // where magic happens
+}while(number < 10); // where magic happens - it means our initialization will be difined here
 
 console.log("So dhawoow xariif");
