@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Abdi Khan",
+    "city": "Afgooye",
+    "orderFruits": [
+        {"id" : 1, "product" : "Water Melon", "quantity": "10 kg"},
+        {"id" : 2, "product" : "Banana", "quantity": "15 kg"},
+        {"id" : 3, "product" : "Orange", "quantity": "20 kg"},
+        {"id" : 4, "product" : "Apple", "quantity": "12 kg"},
+        {"id" : 5, "product" : "Strawberry", "quantity": "10 kg"}
+
+    ]
+}
