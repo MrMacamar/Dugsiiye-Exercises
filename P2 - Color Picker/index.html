@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Picker</title>
+    <!-- Favicon  link-->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="colorGen">
+      <h2>Generate Color</h2>
+
+      <label for="color">Pick a color:</label>
+      <input type="color" id="color" name="color" />
+
+      <p>History of your colors:</p>
+      <div id="colorHistory" class="colorHistory"></div>
+
+      <div class="ctnButtons">
+        <button id="remove">Remove</button>
+        <button id="clearHistory">Clear History</button>
+      </div>
+    </div>
+
+    <!-- Script -->
+    <script src="color-picker.js"></script>
+  </body>
+</html>
